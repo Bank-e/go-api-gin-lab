@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 | Component | Technology |
 | :--- | :--- |
 | **Backend** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) |
@@ -25,7 +25,7 @@
 
 ---
 
-## 🏗 Layered Architecture
+##  Layered Architecture
 การทำงานถูกแบ่งออกเป็นชั้นต่างๆ ดังนี้:
 
 | Layer | Responsibility |
