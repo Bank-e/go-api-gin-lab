@@ -7,7 +7,7 @@
 โปรเจกต์นี้เป็นการปรับปรุงระบบจัดการข้อมูลนักเรียน (Refactor) จาก Lab 2 ให้มาอยู่ในรูปแบบ **Layered Architecture** เพื่อแยกหน้าที่ความรับผิดชอบของโค้ดให้ชัดเจน และเปลี่ยนมาใช้ **Gin Framework** ซึ่งเป็น Web Framework ที่มีประสิทธิภาพสูงในภาษา Go เพื่อการจัดการเส้นทาง (Routing) และข้อมูล JSON ที่ง่ายขึ้น
 
 > ## Lab 2 
-> [https://github.com/Bank-e/go_lab2/tree/main]
+> (https://github.com/Bank-e/go_lab2/tree/main)
 ---
 
 ## Features (Refactored)
